@@ -1,7 +1,7 @@
 {
   "name": "exp-wapp-noframework",
   "version": "1.0.0",
-  "description": "Template for Web Application,
+  "description": "Template for Web Application",
   "keywords": ["HMTL", "CSS", "JavaScript", "TypeScript", "WebPack", "Build System"]
   "main": "",
   "scripts": {
