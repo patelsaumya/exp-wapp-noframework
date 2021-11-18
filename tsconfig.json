@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "target": "es5",
+    "module": "es6",
+    "sourceMap": true,
+    "outDir": "./dist/",
+    "noImplicitAny": true,
+    "jsx": "react",
+    "allowJs": true,
+    "moduleResolution": "node"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
